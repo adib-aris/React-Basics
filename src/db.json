@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "title": "Games and books",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "created_at": "2025-10-05T07:21:28.090Z",
+      "id": "1"
+    },
+    {
+      "title": "Best JS Framework",
+      "body": "Bacon ipsum dolor amet landjaeger turkey chicken sirloin jerky bacon venison sausage pork ground round ham hock hamburger burgdoggen short ribs bresaola. Meatloaf doner rump ball tip. Fatback kevin sausage cupim ball tip leberkas, cow tail frankfurter turkey turducken swine shankle. Tenderloin capicola shank andouille turkey burgdoggen beef ribs short ribs ham hock, landjaeger boudin filet mignon t-bone. Ham meatloaf turducken prosciutto turkey shoulder.",
+      "created_at": "2025-10-05T07:21:30.090Z",
+      "id": "2"
+    },
+    {
+      "id": "12e9",
+      "title": "Laravel",
+      "body": "Edam croque monsieur cow. Ricotta emmental cheesy feet parmesan croque monsieur ricotta caerphilly who moved my cheese. Cottage cheese st. agur blue cheese bavarian bergkase the big cheese chalk and cheese cheese strings pepper jack cheesy feet. Fondue cheese triangles croque monsieur bavarian bergkase.",
+      "created_at": "2025-10-05T07:21:18.090Z"
+    },
+    {
+      "id": "e451",
+      "title": "Best extension in VS Code",
+      "body": "Manchego chalk and cheese roquefort. Macaroni cheese goat fromage camembert de normandie cheese and biscuits jarlsberg monterey jack fondue. Queso fondue croque monsieur halloumi st. agur blue cheese cheeseburger port-salut blue castello. Parmesan mozzarella swiss taleggio cream cheese feta.",
+      "created_at": "2025-10-05T07:42:16.626Z"
+    }
+  ]
+}
