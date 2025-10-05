@@ -17,6 +17,8 @@ Your API server is now running on: [http://localhost:3000/posts](http://localhos
 
 Run the server:
 
+Open a new terminal. Run this code:
+
 ```shell
 npm run dev
 ```
